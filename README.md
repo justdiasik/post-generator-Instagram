@@ -3,7 +3,7 @@
 Real Estate Instagram Post Generator
 This project involves using OpenAI's GPT-3.5 Turbo API to generate Instagram-style posts based on real estate data. The goal is to create engaging content similar to successful Instagram posts in the real estate niche.
 
-# How to Mimic the Style of Successful Instagram Posts?
+# How to Mimic the Style of Successful Instagram Posts
 To replicate the style of successful Instagram posts in the real estate domain:
 
 1. **Study and Analyze:** Conduct a comprehensive analysis of high-engagement Instagram posts within the real estate niche to identify common patterns, language, and visual elements contributing to their success.
